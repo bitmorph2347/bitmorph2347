@@ -1,16 +1,24 @@
 <div align="center">
 
-# Hi, I'm bitmorph 👋
+# Hi, I'm Narsimha 👋
 
 <a href="https://github.com/bitmorph2347"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=720&height=45&lines=Full-stack+web+apps+%26+AI-powered+tools;Machine+learning+with+Python;Games+%26+interactive+experiments;Learning+by+building+things" alt="Typing SVG" width="720" height="45" /></a>
 
 ### I build web apps, ML experiments and small games, and I learn by shipping them
+
+3rd-year **Computer Science and Technology** student at **SRM Institute of Science & Technology, Kattankulathur** · CGPA **8.93**
 
 <a href="https://bitmorph2347.github.io"><img src="https://img.shields.io/badge/Website-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://github.com/bitmorph2347?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repos"/></a>
 <img src="https://komarev.com/ghpvc/?username=bitmorph2347&style=flat-square&color=6f42c1&label=Profile+views" alt="views"/>
 
 </div>
+
+---
+
+## Education
+
+**B.Tech, Computer Science and Technology** — SRM Institute of Science & Technology, Kattankulathur (SRM KTR) · 3rd year · **CGPA 8.93**
 
 ---
 
